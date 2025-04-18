@@ -1,0 +1,1 @@
+/*duas variaveis mostrar trocas usando procedimento+template+ponteiros/referencias*/
